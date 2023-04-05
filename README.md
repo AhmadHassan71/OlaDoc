@@ -1,2 +1,2 @@
 # OlaDoc
-## Consult the pdf for inforation
+## Consult the pdf for information
